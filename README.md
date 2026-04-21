@@ -1,0 +1,1 @@
+Código para visualizar errores de tipografía entre TRF (.doc documento a ser completado por el técnico), información en el sistema de la empresa y acta de la certificadora. También busca filas con cuyo caracter "F" este incluido e imprime dichas filas para corrobarar si es correcta la utilización de dicho carácter.
